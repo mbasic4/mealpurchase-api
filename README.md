@@ -1,3 +1,3 @@
 # mealpurchase-api
 
-This is a small Node.js/TypeScript REST API.
+Small Node.js/TypeScript REST API.
